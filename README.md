@@ -3,7 +3,7 @@
 
 
  + About
-This repository contains structured educational content designed for cybersecurity internship programs. It covers foundational to intermediate security concepts through practical labs, presentations, and exercises.
+This repository contains structured educational content designed for cybersecurity internship programs. It covers foundational to intermediate security concepts.
 
  + Audience
 - Cybersecurity interns
